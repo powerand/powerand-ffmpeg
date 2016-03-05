@@ -1,6 +1,11 @@
 == Master
 
-Current with 2.1.1
+Current with 2.1.2
+
+== 2.1.2 2016-03-04
+
+Improvements:
+* Added required Ruby version to gem spec
 
 == 2.1.1 2016-03-04
 
