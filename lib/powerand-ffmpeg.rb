@@ -4,7 +4,6 @@ require 'byebug'
 
 Proc.new do |this_dir|
   %w(
-    version
     errors
     movie
     io_monkey

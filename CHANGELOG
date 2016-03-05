@@ -1,6 +1,11 @@
 == Master
 
-Current with 2.1.0
+Current with 2.1.1
+
+== 2.1.1 2016-03-04
+
+Improvements:
+* Removed some garbage
 
 == 2.1.0 2016-03-04
 
